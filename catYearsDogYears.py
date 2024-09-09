@@ -1,3 +1,6 @@
+"""
+Programa que calcula la edad de un perro y un gato en años humanos
+"""
 # Calcula la edad del perro y el gato en años humanos
 def calculate_ages(humanYears):
     # Operación de años gato
