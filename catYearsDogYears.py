@@ -33,3 +33,6 @@ print(f"Los años en humanos son: {ages[0]}")
 print(f"Los años del gato son: {ages[1]}")
 print(f"Los años del perro son: {ages[2]}")
 
+"""
+Al final se imprimen los resultados del programa en base a lo que pide la problematica
+"""
