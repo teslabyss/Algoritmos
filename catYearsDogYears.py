@@ -36,3 +36,6 @@ print(f"Los años del perro son: {ages[2]}")
 """
 Al final se imprimen los resultados del programa en base a lo que pide la problematica
 """
+
+
+"Ultimos Cambios 10-09-24"
